@@ -6,7 +6,7 @@ My name is Adam Iannazzone. Here's a little about me:
 * I like landscape photography
 
 ## My Apps
-<img src="https://github.com/jiannazzone/jiannazzone.github.io/blob/9b12fe45ed83266254912e8de7624a2749d3d36d/assets/calcurun/icon.png"> CalcuRun: get scientific race predictions
+<img src="https://github.com/jiannazzone/jiannazzone.github.io/blob/9b12fe45ed83266254912e8de7624a2749d3d36d/assets/calcurun/icon.png" width=25px height=25px> CalcuRun: get scientific race predictions
 
 ## Where to Find Me
 🐘 <a rel="me" href="https://csed.social/@aiannazzone">Follow my on Mastodon</a>
