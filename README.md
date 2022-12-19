@@ -5,6 +5,4 @@ Feel free to check out my work here on GitHub or on my [homepage](https://apps.i
 
 _Pronouns he/him_
 
-<!--
 <a rel="me" href="https://csed.social/@aiannazzone">Mastodon</a>
--->
