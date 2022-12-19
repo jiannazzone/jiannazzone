@@ -6,11 +6,15 @@ My name is Adam Iannazzone. Here's a little about me:
 * I like landscape photography
 
 ## My Apps
-<span style="display:flex; justify-content:center;align-items:center;"><img src="https://github.com/jiannazzone/jiannazzone.github.io/blob/9b12fe45ed83266254912e8de7624a2749d3d36d/assets/calcurun/icon.png" width=25px height=25px> CalcuRun: get scientific race predictions</span>
+* [CalcuRun](https://apps.apple.com/us/app/calcurun/id1554474187): Get scientific race predictions based on your prior results
+* [CalcuSplit](https://apps.apple.com/us/app/calcusplit/id1563953421): A multi-runner stopwatch that lets you time races on the track, lap-based workouts, and more
+* [Lettercode](https://apps.apple.com/us/app/lettercode/id1603512717): A shameless Wordle clone
 
 ## Where to Find Me
-🐘 <a rel="me" href="https://csed.social/@aiannazzone">Follow my on Mastodon</a>
+🐘 <a rel="me" href="https://csed.social/@aiannazzone">Follow me on Mastodon</a>
+
 🧑🏻‍💻 <a href="https://apps.iannaz.zone">My Coding Work</a>
+
 📸 <a href="https://photos.iannaz.zone">My Photo Portfolio</a>
 
 _Pronouns he/him_
