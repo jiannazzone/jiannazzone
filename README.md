@@ -12,6 +12,11 @@ My name is Adam Iannazzone. Here's a little about me:
 
 🔠 [Lettercode](https://apps.apple.com/us/app/lettercode/id1603512717): A shameless Wordle clone
 
+## Other Projects
+🥇 [Who's Up First?](https://whosupfirst.com): Funny ways to determine who goes first in any situation.
+
+👩🏼‍⚕️ [Makey Makey Operations](https://github.com/jiannazzone/Makey-Makey-Operation): Students can create their own version of Operation with some aluminum foil and wires!
+
 ## Where to Find Me
 🐘 <a rel="me" href="https://csed.social/@aiannazzone">Follow me on Mastodon</a>
 
