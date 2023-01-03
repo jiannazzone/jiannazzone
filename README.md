@@ -16,6 +16,7 @@ My name is Adam Iannazzone. Here's a little about me:
 🥇 [Who's Up First?](https://whosupfirst.com): Funny ways to determine who goes first in any situation.
 
 👩🏼‍⚕️ [Makey Makey Operations](https://github.com/jiannazzone/Makey-Makey-Operation): Students can create their own version of Operation with some aluminum foil and wires!
+🔩 [Gridfinity Storage Bin](https://github.com/jiannazzone/Gridfinity-Small-Parts): Make your own customizable small parts storage bin.
 
 ## Where to Find Me
 🐘 <a rel="me" href="https://csed.social/@aiannazzone">Follow me on Mastodon</a>
