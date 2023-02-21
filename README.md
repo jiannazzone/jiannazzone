@@ -19,6 +19,8 @@ My name is Adam Iannazzone. Here's a little about me:
 
 🔩 [Gridfinity Storage Bin](https://github.com/jiannazzone/Gridfinity-Small-Parts): Make your own customizable small parts storage bin.
 
+⌨️ [Lightroom Macropad](https://github.com/jiannazzone/Lightroom-Macropad): A custom macropad for controlling Photoshop Lightroom
+
 ## Where to Find Me
 🐘 <a rel="me" href="https://csed.social/@aiannazzone">Follow me on Mastodon</a>
 
