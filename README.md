@@ -29,3 +29,5 @@ My name is Adam Iannazzone. Here's a little about me:
 📸 <a href="https://photos.iannaz.zone">My Photo Portfolio</a>
 
 _Pronouns he/him_
+
+If you like my work, consider supporting me with a donation [via PayPal](https://www.paypal.me/jiannazzone).
