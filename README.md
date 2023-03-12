@@ -12,6 +12,8 @@ My name is Adam Iannazzone. Here's a little about me:
 
 🔠 [Lettercode](https://apps.apple.com/us/app/lettercode/id1603512717): A shameless Wordle clone
 
+[Fanciful Fonts](https://apps.apple.com/us/app/fanciful-fonts/id6446179951): A simple iMessage app to spice up your text with Unicode modifiers.
+
 ## Other Projects
 🥇 [Who's Up First?](https://whosupfirst.com): Funny ways to determine who goes first in any situation.
 
