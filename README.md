@@ -24,7 +24,7 @@ My name is Adam Iannazzone. Here's a little about me:
 ⌨️ [Lightroom Macropad](https://github.com/jiannazzone/Lightroom-Macropad): A custom macropad for controlling Photoshop Lightroom
 
 ## Where to Find Me
-🐘 <a rel="me" href="https://mastodon.social/@aiannazzone">Follow me on Mastodon</a>
+🐘 <a rel="me" href="https://mas.to/@Domiku">Follow me on Mastodon</a>
 
 🧑🏻‍💻 <a href="https://apps.iannaz.zone">My Coding Work</a>
 
