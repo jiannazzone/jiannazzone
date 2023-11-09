@@ -15,6 +15,8 @@ My name is Adam Iannazzone. Here's a little about me:
 🧐 [Fanciful Fonts](https://apps.apple.com/us/app/fanciful-fonts/id6446179951): A simple iMessage app to spice up your text with Unicode modifiers.
 
 ## Other Projects
+🚽 [Hall Pass Online](https://github.com/jiannazzone/Digital-Hall-Pass): Create digital, self-expiring hall passes for your students without collecting any data.
+
 🥇 [Who's Up First?](https://whosupfirst.com): Funny ways to determine who goes first in any situation.
 
 👩🏼‍⚕️ [Makey Makey Operations](https://github.com/jiannazzone/Makey-Makey-Operation): Students can create their own version of Operation with some aluminum foil and wires!
