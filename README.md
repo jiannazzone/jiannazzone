@@ -34,4 +34,4 @@ My name is Adam Iannazzone. Here's a little about me:
 
 _Pronouns he/him_
 
-If you like my work, consider supporting me with a donation [via PayPal](https://www.paypal.me/jiannazzone).
+If you like my work, consider supporting me with [a donation](https://www.buymeacoffee.com/aiannazzone).
