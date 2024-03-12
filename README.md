@@ -2,7 +2,7 @@
 
 My name is Adam Iannazzone. Here's a little about me:
 * I teach high school Computer Science in NY
-* I've released 3 (and counting) iOS apps
+* I've released 4 (and counting) iOS apps
 * I like landscape photography
 
 ## My Apps
