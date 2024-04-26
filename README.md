@@ -14,6 +14,13 @@ My name is Adam Iannazzone. Here's a little about me:
 
 🧐 [Fanciful Fonts](https://apps.apple.com/us/app/fanciful-fonts/id6446179951): A simple iMessage app to spice up your text with Unicode modifiers.
 
+## Non-Profit Web Design
+[Prospect Park Track Club](https://pptc.org/)
+
+[Onteora Runners Club](https://www.onteorarunners.org/)
+
+[Rosendale Street Festival](https://www.rosendalestreetfestival.org/)
+
 ## Other Projects
 🚽 [Hall Pass Online](https://github.com/jiannazzone/Digital-Hall-Pass): Create digital, self-expiring hall passes for your students without collecting any data.
 
