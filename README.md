@@ -3,7 +3,10 @@
 My name is Adam Iannazzone. Here's a little about me:
 * I teach high school Computer Science in NY
 * I've released 4 (and counting) iOS apps
-* I like landscape photography
+* I like landscape photography, snowboarding, and running!
+
+## Open Source Work
+👾 [RetroDECK Website](https://retrodeck.net/): A ground-up redesign for the RetroDECK open-source project. Built on Bootstrap.
 
 ## My Apps
 👟 [CalcuRun](https://apps.apple.com/us/app/calcurun/id1554474187): Get scientific race predictions based on your prior results
@@ -36,8 +39,6 @@ My name is Adam Iannazzone. Here's a little about me:
 
 ## Other Projects
 🚽 [Hall Pass Online](https://github.com/jiannazzone/Digital-Hall-Pass): Create digital, self-expiring hall passes for your students without collecting any data.
-
-👩🏼‍⚕️ [Makey Makey Operations](https://github.com/jiannazzone/Makey-Makey-Operation): Students can create their own version of Operation with some aluminum foil and wires!
 
 🔩 [Gridfinity Storage Bin](https://github.com/jiannazzone/Gridfinity-Small-Parts): Make your own customizable small parts storage bin.
 
