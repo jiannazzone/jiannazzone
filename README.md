@@ -1,7 +1,8 @@
 # Greetings! 👋
 
 My name is Adam Iannazzone. Here's a little about me:
-* I teach high school Computer Science in NY
+* I'm a former math, science, and engineering high school teacher
+* I currently work as a Technical Support Engineer
 * I've released 4 (and counting) iOS apps
 * I like landscape photography, snowboarding, and running!
 
