@@ -10,6 +10,8 @@ My name is Adam Iannazzone. Here's a little about me:
 👾 [RetroDECK Website](https://retrodeck.net/): A ground-up redesign for the RetroDECK open-source project. Built on Bootstrap.
 
 ## My Apps
+📻 [QRV](https://apps.apple.com/us/app/qrv/id6754951380): Your all-in-one ham radio toolkit
+
 👟 [CalcuRun](https://apps.apple.com/us/app/calcurun/id1554474187): Get scientific race predictions based on your prior results
 
 ⏱️ [CalcuSplit](https://apps.apple.com/us/app/calcusplit/id1563953421): A multi-runner stopwatch that lets you time races on the track, lap-based workouts, and more
